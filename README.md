@@ -45,7 +45,8 @@ The dashboard provides a high-level overview of Amazon product sales with key pe
 
 ## 🧠 What I Learned
 
-- How to clean messy price and rating data for visualization
+- How to clean corrupted price fields and non-numeric characters (e.g., ₹ → USD)
+- Converting currencies using calculated fields for international standardization
 - Designing executive-level KPIs with effective layout
 - Creating calculated fields and quick table calculations in Tableau
 - Structuring and styling dashboards for storytelling
