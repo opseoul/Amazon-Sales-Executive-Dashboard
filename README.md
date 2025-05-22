@@ -39,7 +39,7 @@ The dashboard provides a high-level overview of Amazon product sales with key pe
 
 ## 📎 Data Source
 
-- [Kaggle: Amazon Sales Dataset](https://www.kaggle.com/datasets](https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset/data)
+- [Kaggle: Amazon Sales Dataset](https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset/data)
 
 ---
 
